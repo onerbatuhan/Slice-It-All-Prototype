@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429b0b8f3f0730e49b6184131f8e11bb, type: 3}
+  m_Name: KabanKnife
+  m_EditorClassIdentifier: 
+  itemName: KabanKnife
+  itemGameObject: {fileID: 7794953489123828367, guid: 82a2fcb8c25ddce49b8083e98452936a, type: 3}
+  rotateSpeed: 32
+  specificMaxAngularVelocity: 8
+  touchCancelWaitingTime: 0.5
+  specificAngularDrag: 30
+  specificLowRotateSpeed: 3
+  isSelected: 0
